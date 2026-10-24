@@ -1,0 +1,26 @@
+David Patel
+Email: david.patel.cloud@example.com | Phone: +1 (555) 492-8172
+Location: San Jose, CA | LinkedIn: linkedin.com/in/davidpatel | GitHub: github.com/davidpatel
+
+OBJECTIVE
+Motivated software engineer with 2 years of experience looking to contribute to innovative web development teams.
+
+SKILLS
+- Programming: Python, JavaScript, HTML, CSS
+- Frameworks: React, Express, Node.js
+- Databases: MongoDB, SQLite
+- Tools: Docker, Git, Linux, Postman
+
+EXPERIENCE
+Associate Software Developer | DataWave Tech | 2022 - Present
+- Built client-side interfaces using React and CSS.
+- Developed backend microservices using Python and Flask for internal data transformations.
+- Managed containerized environments with basic Docker commands.
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+Pune University (2018 - 2022)
+
+PROJECTS
+- TaskMaster: Simple task board application using React and MongoDB.
+- WeatherCast: CLI tool written in Python to fetch forecast data from open APIs.

@@ -1,0 +1,32 @@
+Sarah Chen
+Email: sarah.chen.tech@example.com | Phone: +1 (555) 749-2184
+Location: Austin, TX | LinkedIn: linkedin.com/in/sarahchen-swe | GitHub: github.com/sarahchen
+
+SUMMARY
+Accomplished Full Stack Web Developer with 4 years of experience building modern user-facing applications. Strong focus on clean code, TypeScript, React ecosystem, and Python backend services.
+
+SKILLS
+- Languages: Python, JavaScript, TypeScript, SQL
+- Frontend: React, Next.js, Tailwind CSS, HTML5, CSS3, Vite
+- Backend: FastAPI, Node.js, REST APIs
+- Databases: PostgreSQL, SQLite
+- Tooling: Git, GitHub, Postman, Jest
+
+EXPERIENCE
+
+Software Engineer | NexaDigital | 2021 - Present
+- Implemented REST APIs in Python using FastAPI with PostgreSQL persistence layer.
+- Built modular UI component library in React with responsive Tailwind CSS styling.
+- Collaborated with product designers to implement pixel-perfect user journeys in Next.js.
+- Authored automated unit and integration tests using Jest and Pytest.
+
+Junior Web Developer | AgileByte Systems | 2020 - 2021
+- Created dynamic dashboards using React and JavaScript.
+- Maintained backend endpoints with Python and PostgreSQL.
+
+EDUCATION
+Master of Science in Software Systems - Georgia Institute of Technology (2018 - 2020)
+Bachelor of Science in Information Systems - University of Texas at Austin (2014 - 2018)
+
+PROJECTS
+- FinTrack Portal: Personal finance tracker built with Next.js, Tailwind CSS, and Python FastAPI.

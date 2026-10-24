@@ -1,0 +1,34 @@
+Alex Mercer
+Email: alex.mercer.dev@example.com | Phone: +1 (555) 382-9102
+Location: San Francisco, CA | LinkedIn: linkedin.com/in/alex-mercer | GitHub: github.com/alexmercer
+
+PROFESSIONAL SUMMARY
+Senior Full Stack & AI Systems Engineer with 5+ years of experience designing and deploying scalable web architectures, microservices, and automated NLP systems. Proven track record leading distributed systems with Python, FastAPI, React, Next.js, and PostgreSQL in containerized Kubernetes and Docker environments.
+
+CORE TECHNICAL SKILLS
+- Programming: Python, TypeScript, JavaScript, SQL, HTML5, CSS3
+- Frontend: React, Next.js, Tailwind CSS, Redux, Webpack
+- Backend: FastAPI, Node.js, Express, REST APIs, GraphQL
+- Databases: PostgreSQL, Redis, Supabase, MongoDB
+- Cloud & DevOps: Docker, Kubernetes, AWS (S3, EC2, ECS), CI/CD (GitHub Actions), Linux
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack AI Engineer | CloudSphere Solutions | 2022 - Present
+- Architected high-throughput microservices using Python and FastAPI serving 1M+ daily active requests with sub-100ms p95 latency.
+- Designed reactive client dashboard in React & Next.js connected to PostgreSQL RDS cluster.
+- Implemented real-time resume parsing and embedding generation using PyMuPDF and Scikit-learn cosine similarity.
+- Containerized application fleet with Docker and integrated automated CI/CD deployment pipelines on AWS ECS.
+
+Full Stack Software Developer | InnovateTech Labs | 2019 - 2022
+- Developed responsive web applications using React, TypeScript, and Tailwind CSS.
+- Built performant RESTful APIs using Python and PostgreSQL for customer analytics.
+- Reduced database query times by 40% through indexing and query optimization on PostgreSQL.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington, Seattle, WA (2015 - 2019)
+
+PROJECTS
+- AI Candidate Matcher: Full stack application built with FastAPI, Next.js, and scikit-learn for intelligent document scoring.
+- CloudMetrics: Real-time telemetry dashboard using React, WebSockets, and Redis.
