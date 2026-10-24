@@ -143,3 +143,5 @@ You can upload these files directly in the **Upload & Screen** page or click the
 ## 🛡️ Ethical AI & Anti-Bias Notice
 
 HireSense AI complies with EEOC guidelines and Responsible AI frameworks. The platform does not use age, gender, race, ethnicity, religion, caste, disability, or personal photographs to calculate candidate scores. All AI output must be reviewed by a human recruiter before taking hiring actions.
+#   A I - R e s u m e - S c r e e n i n g -  
+ 
